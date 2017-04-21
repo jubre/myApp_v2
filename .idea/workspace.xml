@@ -2,8 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30fcbf3b-48e0-4533-bfc5-2e02fd7ea39e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/BootStrap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1$_closure2$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/UrlMappings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp/views.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp$_run_closure1$_closure3$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp$_run_closure1$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp_html.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2_layoutsmain_gsp_linenumbers.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp$_run_closure1$_closure3$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp$_run_closure1$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp_html.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2error_gsp_linenumbers.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp$_run_closure1$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp$_run_closure2$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp$_run_closure2$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp_html.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2index_gsp_linenumbers.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2notFound_gsp$_run_closure1$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2notFound_gsp$_run_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2notFound_gsp$_run_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2notFound_gsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2notFound_gsp_html.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/gsp_myApp_v2notFound_gsp_linenumbers.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/myapp_v2/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/myapp_v2/ApplicationLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_myApp_v2_layoutsmain_gsp.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_myApp_v2error_gsp.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_myApp_v2index_gsp.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gsptmp/gsp_myApp_v2notFound_gsp.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/myApp_v2-0.1.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/error.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/index.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/layouts/main.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/logback.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_cs_CZ.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_da.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_ja.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_nb.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_nl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_pl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_pt_PT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_ru.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_sv.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_th.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/messages_zh_CN.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/notFound.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/spring/resources.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -37,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -47,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -961,7 +1027,7 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -969,7 +1035,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding />
         </state>
       </provider>
