@@ -71,6 +71,8 @@ dependencies {
     testRuntime 'org.seleniumhq.selenium:selenium-htmlunit-driver:2.44.0'
 
     console "org.grails:grails-console"
+
+    compile 'com.github.jsimone:webapp-runner:8.0.30.2'
 }
 
 task wrapper(type: Wrapper) {
